@@ -117,7 +117,7 @@ body.dark-theme{
       justify-content: center;
       align-items: center;
       height: 150vh; /* Optional, to make it full height */
-      margin-top: -183px; /* Add this to remove top margin */
+      margin-top: -350px; /* Add this to remove top margin */
       margin-left: 75px;
   }
 }
@@ -536,7 +536,7 @@ img{
 /* ===================== ABOUT ================== */
 .about{
     padding-top: 1rem;
-    margin-top: 7rem;
+    margin-top: -5rem;
 }
 .about__img{
     width: 200px;
